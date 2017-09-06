@@ -1,0 +1,7 @@
+C:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\GetXiaohua\bin\Debug\GetXiaohua.exe
+C:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\GetXiaohua\bin\Debug\GetXiaohua.pdb
+C:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\GetXiaohua\bin\Debug\HtmlAgilityPack.dll
+C:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\GetXiaohua\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\GetXiaohua\bin\Debug\HtmlAgilityPack.xml
+C:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\GetXiaohua\obj\Debug\GetXiaohua.exe
+C:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\GetXiaohua\obj\Debug\GetXiaohua.pdb
