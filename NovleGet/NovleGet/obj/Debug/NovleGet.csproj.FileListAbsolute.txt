@@ -1,0 +1,8 @@
+c:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\NovleGet\bin\Debug\NovleGet.exe
+c:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\NovleGet\bin\Debug\NovleGet.pdb
+c:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\NovleGet\bin\Debug\HtmlAgilityPack.dll
+c:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\NovleGet\bin\Debug\HtmlAgilityPack.pdb
+c:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\NovleGet\bin\Debug\HtmlAgilityPack.xml
+c:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\NovleGet\obj\Debug\NovleGet.csprojResolveAssemblyReference.cache
+c:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\NovleGet\obj\Debug\NovleGet.exe
+c:\Users\zdd\Documents\Visual Studio 2013\Projects\NovleGet\NovleGet\obj\Debug\NovleGet.pdb
